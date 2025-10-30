@@ -12,7 +12,7 @@ int main() {
 
     sum = a + b;
 
-    cout << "Sum = " << sum << endl;
+    cout << "Sum  is about to say that  " << sum << endl;
 
     return 0;
 }
